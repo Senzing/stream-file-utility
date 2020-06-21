@@ -59,7 +59,7 @@
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>libs/</classpathPrefix>
 							<mainClass>
-								com.senzing.utility.stream.StreamUtilityApp
+								com.senzing.utility.file.stream.StreamUtilityApp
 							</mainClass>
 						</manifest>
 						<manifestEntries>
